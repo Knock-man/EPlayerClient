@@ -5,6 +5,7 @@ Qt5.12.9   MSVC2017_32bit
 # 运行步骤
 1.打开VideoPlayer文件夹  
 2.点击 VideoPlayer.pro文件运行  
+3.登录进入主界面将视频拖拽进去即可播放(项目中有 风景.mp4 供测试)  
 # 效果展示
 ![登录界面](https://github.com/Knock-man/EPlayerClient/assets/66514322/9ebc4d3e-e7a3-4cf2-9117-7b8bb37e601c)  
 ![信息框](https://github.com/Knock-man/EPlayerClient/assets/66514322/4227ecf3-6911-454f-be96-ceda510a08e1)  
