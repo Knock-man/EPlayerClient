@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.12.2, 2024-06-25T15:23:02. -->
+<!-- Written by QtCreator 4.12.2, 2024-06-25T15:48:53. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -317,9 +317,8 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">VideoPlayer2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/xbj/Desktop/VideoPlayer/EPlayerClient/VideoPlayer/VideoPlayer.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/xbj/Desktop/VideoPlayer/EPlayerClient/VideoPlayer/VideoPlayer.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/EPlayerClient/VideoPlayer/VideoPlayer.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/EPlayerClient/VideoPlayer/VideoPlayer.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
